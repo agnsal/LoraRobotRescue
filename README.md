@@ -19,6 +19,12 @@ So now you have no more excuses to take your robots always locked in!
 You can find all related info in LR2.pdf. 
 
 
+This project has been developed at DISIM, Università degli Studi dell'Aquila University, for Embedded Systems (http://www.pomante.net/) and Intelligent Systems and Robotics Laboratory (https://www.disim.univaq.it/main/home.php?users_username=giovanni.degasperis) courses.
+
+
+Special thanks to FabLab AQ (https://www.fablaquila.org/) and Luca Anastasio.
+
+
 ## Contacts
 
 Agnese Salutari – agneses92@hotmail.it
